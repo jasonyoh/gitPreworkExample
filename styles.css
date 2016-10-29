@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: darkred;
+    margin-left: 20px;
+}
+
+p {
+    color: purple;
+    margin-left: 20px;
+}
+
+button {
+  font-family: Arial;
+  color: #000000;
+  font-size: 12px;
+  background: #d93434;
+}
